@@ -1,0 +1,4 @@
+[submodule "camptocamp/server-auth"]
+	path = camptocamp/server-auth
+	url = git@github.com:camptocamp/server-auth.git
+	branch = 15-auth-saml-odoo-sh
